@@ -1,9 +1,9 @@
 ### Date created
 DATE 27.04.2020
 
-### Project Title
-Project Title:
-Basic data exploration on Bikeshare Data with python
+### Basic data exploration on Bikeshare Data with python
+
+
 
 ### Description
 Project Description:
