@@ -1,5 +1,4 @@
-### Date created
-DATE 27.04.2020
+### Date created: 27.04.2020
 
 ### Basic data exploration on Bikeshare Data with python
 
